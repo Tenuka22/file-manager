@@ -1,7 +1,7 @@
 from typing import List, Optional
 import json
 import os
-from .app_types import ChunkDict, IndexDict
+from ._types import ChunkDict, IndexDict
 
 
 def getTextContent(file_path: str) -> List[str]:

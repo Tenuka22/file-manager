@@ -1,5 +1,5 @@
 from typing import Any, List, Optional, Union
-from .app_types import ChunkDict, IndexDict
+from ._types import ChunkDict, IndexDict
 import os
 import json
 
