@@ -1,1 +1,1 @@
-from model import AiModel  # type: ignore
+from ai.gemini import AiModel as GeminiModel  # type: ignore
